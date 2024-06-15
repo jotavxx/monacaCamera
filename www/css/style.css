@@ -1,0 +1,25 @@
+/**/
+
+
+
+*{font-family: "Roboto", sans-serif;
+
+
+}
+  
+
+.imagem{
+height: 200px;
+width: 100%;
+
+}
+
+button{
+display: block;
+width: 100%;
+padding: 15px;
+background-color: rgb(99 102 241);
+border: none;
+color: white;
+
+}
